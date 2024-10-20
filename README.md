@@ -8,7 +8,7 @@
 1. RIFAN WAROSY SIROJUDIN (220660121033)
 2. ALIP RIZKY FIRDAUS (220660121078)
 3. M ARIF FIRMANSYAH (220660121013)
-4. NAUFAL SIDDIQ RAMADHAN (NAUFAL SIDDIQ RAMADHAN)
+4. NAUFAL SIDDIQ RAMADHAN (220660121035)
 5. RIVAL FAKHRI AMRULLAH (220660121134)
 
 Proyek ini adalah implementasi pintu otomatis yang menggunakan sensor ultrasonik dan servo, yang terintegrasi dengan **Blynk Cloud** untuk kontrol jarak jauh. Saat objek terdeteksi dalam jarak tertentu, servo akan menggerakkan pintu. Pengguna juga dapat mengontrol pintu melalui aplikasi Blynk.
